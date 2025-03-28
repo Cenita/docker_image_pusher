@@ -1,2 +1,2 @@
-nginx/latest
+halo/halo:2.19
 --platform=linux/arm64 xiaoyaliu/alist
