@@ -1,2 +1,2 @@
-halo/halo:2.19
+linuxserver/homeassistant:amd64-version-2025.3.3
 --platform=linux/arm64 xiaoyaliu/alist
