@@ -1,2 +1,2 @@
 nginx:latest
---platform=linux/arm64 ticket
+--platform=linux/arm64 xiaoyaliu/alist
